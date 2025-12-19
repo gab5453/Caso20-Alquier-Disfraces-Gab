@@ -1,7 +1,7 @@
 <h1> Exámen en Laravel</h1>
 
 <h2>Link de GitHub</h2>
-https://github.com/GlieseKep/prueba-laravel](https://github.com/gab5453/Caso20-Alquier-Disfraces-Gab
+https://github.com/gab5453/Caso20-Alquier-Disfraces-Gab
 
 <h1>Decisiones de Diseño</h1>
 
